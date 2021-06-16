@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://www.linkedin.com/in/thebenedwards60/">Ben</a>!
 
-I'm a Fron-End Develop in the United Kingdom. I graduated from Northumbria University in 2020 and have since then been creating Front-End Apps using React.js
+I'm a Front-End Developer based in the United Kingdom. I graduated from Northumbria University in 2020 and have since then been creating Front-End Apps using React.js!
 
 [![twitter badge](https://img.shields.io/badge/-@Edwards_Ben60-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Edwards_Ben60)
 [![dev.to badge](https://img.shields.io/badge/-thebenedwards60-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/thebenedwards60)
