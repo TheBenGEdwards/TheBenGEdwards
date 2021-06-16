@@ -1,2 +1,2 @@
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenEdwards)](https://github.com/TheBenEdwards/github-readme-stats)
-[![Ben's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenEdwards)](https://github.com/TheBenEdwards/github-readme-stats)
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenEdwards&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite)](https://github.com/TheBenEdwards/github-readme-stats)
+[![Ben's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenEdwards&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite")](https://github.com/TheBenEdwards/github-readme-stats)
