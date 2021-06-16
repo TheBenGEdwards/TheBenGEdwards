@@ -2,20 +2,14 @@
 
 I'm a Fron-End Develop in the United Kingdom. I graduated from Northumbria University in 2020 and have since then been creating Front-End Apps using React.js
 
-<br/>
-
 [![twitter badge](https://img.shields.io/badge/-@Edwards_Ben60-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Edwards_Ben60)
 [![dev.to badge](https://img.shields.io/badge/-thebenedwards60-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/thebenedwards60)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benji.edwards60@gmail.com)](mailto:benji.edwards60@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/TheBenEdwards?style=social)
 ![](https://komarev.com/ghpvc/?username=TheBenEdwards&color=brightgreen&style=flat)
 
-<br/>
-
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenEdwards&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21)](https://github.com/TheBenEdwards/github-readme-stats)
 [![Ben's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenEdwards&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite")](https://github.com/TheBenEdwards/github-readme-stats)
-
-<br/>
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
