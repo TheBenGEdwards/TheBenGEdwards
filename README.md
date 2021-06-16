@@ -25,8 +25,8 @@ I'm a Front-End Developer based in the United Kingdom. I graduated from Northumb
 <hr>
 
 ## 🦾   Technologies   🦾
-![React.js](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=blue)
-![Discord.js](https://img.shields.io/badge/-Discord-fff?style=flat&logo=discord&logoColor=blurple)
+![React.js](https://img.shields.io/badge/-React.js-fff?style=flat&logo=react&logoColor=blue)
+![Discord.js](https://img.shields.io/badge/-Discord.js-fff?style=flat&logo=discord&logoColor=blurple)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=postgresql&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git&logoColor=red)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat&logo=heroku&logoColor=purple)
