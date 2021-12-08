@@ -1,18 +1,19 @@
 <div align="center">
 
-# Hi, I'm <a href="https://www.linkedin.com/in/thebenedwards60/">Ben Edwards</a>!
+# Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwards</a>!
 
 I'm a Front-End Developer based in the United Kingdom. I graduated from Northumbria University in 2020 and have since then been creating Front-End Apps using React.js!
 
-[![twitter badge](https://img.shields.io/badge/-@Edwards_Ben60-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Edwards_Ben60)
-[![dev.to badge](https://img.shields.io/badge/-thebenedwards60-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/thebenedwards60)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benji.edwards60@gmail.com)](mailto:benji.edwards60@gmail.com)
+[![twitter badge](https://img.shields.io/badge/-@thebengedwards-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thebengedwards)
+[![dev.to badge](https://img.shields.io/badge/-thebengedwards-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thebengedwards)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=microsoftoutlook&link=mailto:bengedwards@outlook.com)](mailto:bengedwards@outlook.com)
 ![githubbadge](https://img.shields.io/github/followers/TheBenEdwards?style=social)
 ![views](https://komarev.com/ghpvc/?username=TheBenEdwards&color=brightgreen&style=flat)
 
 <hr>
 
-## 👨‍💻   Languages   👨‍💻
+## 👨‍💻 Languages 👨‍💻
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=yellow)
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
@@ -24,7 +25,8 @@ I'm a Front-End Developer based in the United Kingdom. I graduated from Northumb
 
 <hr>
 
-## 🦾   Technologies   🦾
+## 🦾 Technologies 🦾
+
 ![React.js](https://img.shields.io/badge/-React.js-fff?style=flat&logo=react&logoColor=blue)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-fff?style=flat&logo=discord&logoColor=blurple)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=postgresql&logoColor=blue)
@@ -35,7 +37,7 @@ I'm a Front-End Developer based in the United Kingdom. I graduated from Northumb
 
 <hr>
 
-## 📊   GitHub Stats   📊
+## 📊 GitHub Stats 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheBenEdwards&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&text_color=fff" alt="TheBenEdwards" />
     
@@ -43,6 +45,6 @@ I'm a Front-End Developer based in the United Kingdom. I graduated from Northumb
 
 <hr>
 
-## 🔽   See Top Repositiories Below   🔽
+## 🔽 See Top Repositiories Below 🔽
 
 </div>
