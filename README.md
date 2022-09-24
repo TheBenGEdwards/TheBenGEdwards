@@ -7,8 +7,8 @@ I'm a Front-End Developer based in the United Kingdom. I graduated from Northumb
 [![twitter badge](https://img.shields.io/badge/-@thebengedwards-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thebengedwards)
 [![dev.to badge](https://img.shields.io/badge/-thebengedwards-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thebengedwards)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=microsoftoutlook&link=mailto:bengedwards@outlook.com)](mailto:bengedwards@outlook.com)
-![githubbadge](https://img.shields.io/github/followers/TheBenEdwards?style=social)
-![views](https://komarev.com/ghpvc/?username=TheBenEdwards&color=brightgreen&style=flat)
+![githubbadge](https://img.shields.io/github/followers/TheBenGEdwards?style=social)
+![views](https://komarev.com/ghpvc/?username=TheBenGEdwards&color=brightgreen&style=flat)
 
 <hr>
 
@@ -39,9 +39,9 @@ I'm a Front-End Developer based in the United Kingdom. I graduated from Northumb
 
 ## 📊 GitHub Stats 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheBenEdwards&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&text_color=fff" alt="TheBenEdwards" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheBenGEdwards&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&text_color=fff" alt="TheBenGEdwards" />
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenEdwards&hide_title=true&hide_border=true&layout=compact&langs_count=10&bg_color=30,e96443,904e95&text_color=fff" alt="TheBenEdwards" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBenGEdwards&hide_title=true&hide_border=true&layout=compact&langs_count=10&bg_color=30,e96443,904e95&text_color=fff" alt="TheBenGEdwards" />
 
 <hr>
 
