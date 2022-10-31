@@ -32,7 +32,6 @@ Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwar
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=flat)
 
-<hr>
 </div>
 
 <div>
@@ -42,7 +41,6 @@ Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwar
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?logo=Discord&logoColor=white&style=flat)
 
-<hr>
 </div>
 
 <div>
@@ -58,7 +56,6 @@ Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwar
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)
 
-<hr>
 </div>
 
 </div>
@@ -70,7 +67,6 @@ Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwar
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebengedwards&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=transparent" alt="thebengedwards" />
 
-<hr>
 </div>
 
 <h2>↓ See Top Repositiories Below ↓</h2>
