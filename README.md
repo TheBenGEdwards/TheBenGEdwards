@@ -16,7 +16,6 @@ Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwar
 [![twitter badge](https://img.shields.io/badge/-@thebengedwards-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thebengedwards)
 [![dev.to badge](https://img.shields.io/badge/-thebengedwards-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/thebengedwards)
 
-<hr>
 </div>
 
 <div>
