@@ -84,7 +84,7 @@ Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwar
 
 </div>
 
-Powered by [Github Unwrapped](https://www.githubunwrapped.com/thebengedwards)
+Powered by [Github Unwrapped](https://www.githubunwrapped.com)
 
 </div>
 
