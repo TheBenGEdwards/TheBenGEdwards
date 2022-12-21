@@ -1,4 +1,5 @@
 <div align="center">
+<div>
 <h1>
 
 ![githubbadge](https://img.shields.io/github/followers/thebengedwards?style=social)
@@ -7,6 +8,7 @@
 Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwards</a>!
 
 </h1>
+</div>
 
 <div>
 <h2>About</h2>
@@ -68,6 +70,26 @@ Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwar
 
 </div>
 
+<div>
+<h2>GitHub Unwrapped</h2>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+
+<div>
+<h2>2022</h2>
+
+![](unwrapped/2022.gif)
+
+</div>
+
+</div>
+
+Powered by [Github Unwrapped](https://www.githubunwrapped.com/thebengedwards)
+
+</div>
+
+<div>
 <h2>↓ See Top Repositiories Below ↓</h2>
+</div>
 
 </div>
