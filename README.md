@@ -76,7 +76,7 @@ Hello, I am <a href="https://www.linkedin.com/in/thebengedwards/">Benjamin Edwar
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
 <div>
-<h2>2022</h2>
+<h3>2022</h3>
 
 ![](unwrapped/2022.gif)
 
